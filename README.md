@@ -41,8 +41,8 @@ Running the Prediction Model
 Open the Jupyter notebook in the Prediction models folder and run each cell sequentially. The notebook loads historical data, applies technical indicators, and trains an LSTM or random forest model to forecast stock prices.
 
 jupyter notebook
-# Navigate to the Prediction models folder and open the notebook.
-Project Structure
+# Project Structure:
+
 main.py: Entry point for the rule-based strategy.
 
 src: Contains scripts for data extraction, processing, and rule evaluation.
